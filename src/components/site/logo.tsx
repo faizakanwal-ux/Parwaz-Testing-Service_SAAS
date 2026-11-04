@@ -28,10 +28,10 @@ export function Logo({ light, className }: { light?: boolean; className?: string
       <LogoMark className="size-9 shrink-0 transition-transform group-hover:-translate-y-0.5" />
       <span className="leading-none">
         <span className={cn("block font-display text-[17px] font-extrabold tracking-tight", light ? "text-white" : "text-navy-950")}>
-          Rewarding Potential
+          PARWAZ Testing Services
         </span>
         <span className={cn("mt-1 block text-[10.5px] font-semibold tracking-[0.12em] uppercase", light ? "text-gold-300" : "text-gold-600")}>
-          Online Academic Testing
+          Knowledge Merit Oppertunity
         </span>
       </span>
     </Link>
